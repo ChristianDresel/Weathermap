@@ -39,8 +39,6 @@ while($row = mysqli_fetch_object($ergebnis))
 			fwrite ($handle, $inhalt);
 			fclose ($handle);
 			echo $inhalt;
-
-
 		}
 		$i++;
 	}

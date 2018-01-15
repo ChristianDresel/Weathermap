@@ -1,4 +1,5 @@
 <?php
+// VERALTET, WIRD NICHT MEHR VERWENDET....
 error_reporting(E_ALL);
 ini_set ('display_errors', 'On'); 
 include("/var/www/html/config.php");
