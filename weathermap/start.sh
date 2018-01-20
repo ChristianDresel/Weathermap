@@ -8,3 +8,4 @@ php ./weathermap --config nue2.conf --output nue2.png --htmloutput nue2.html
 php ./weathermap --config euserv.conf --output euserv.png --htmloutput euserv.html
 php ./weathermap --config fff-gw-reddog1.conf --output fff-gw-reddog1.png --htmloutput fff-gw-reddog1.html
 php ./weathermap --config fff-gw-aquarius.conf --output fff-gw-aquarius.png --htmloutput fff-gw-aquarius.html
+php ./weathermap --config fff-gw-sw.conf --output fff-gw-sw.png --htmloutput fff-gw-sw.html
