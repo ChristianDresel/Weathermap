@@ -29,6 +29,7 @@ $rrdtool="/usr/bin/rrdtool";
 // (on Windows, use / instead of \ in pathnames - c:/rrdtool/bin/rrdtool.exe for example)
 // **************************************************************************************
 
+
 // initialize object
 $cg=new Console_Getopt();
 $short_opts='';

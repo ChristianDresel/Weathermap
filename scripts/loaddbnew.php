@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 ini_set ('display_errors', 'On'); 
-include("/var/www/html/config.php");
+include("/var/www/html/rfconfig.php");
 $block = 0;
 $vorhanden = 0;
 $ergebnis = mysqli_query($db, "SELECT id, routerid, interface FROM allg_info");
