@@ -12,4 +12,5 @@ php ./weathermap --config euserv.conf --output euserv.png --htmloutput euserv.ht
 php ./weathermap --config fff-gw-aquarius.conf --output fff-gw-aquarius.png --htmloutput fff-gw-aquarius.html
 php ./weathermap --config zbau.conf --output zbau.png --htmloutput zbau.html
 php ./weathermap --config merkur.conf --output merkur.png --htmloutput merkur.html
+php ./weathermap --config adrian-gw1.conf --output adrian-gw1.png --htmloutput adrian-gw1.html
 #php ./weathermap --config fff-gw-sw.conf --output fff-gw-sw.png --htmloutput fff-gw-sw.html
